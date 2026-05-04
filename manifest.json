@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-05-04",
+  "models": [
+    {
+      "name": "fabrica_montada",
+      "file": "models3D/fabrica_montada.glb",
+      "version": "1.0",
+      "size": "6.85MB",
+      "description": "Main factory assembly model (floor and walls)"
+    },
+    {
+      "name": "torre_fusora",
+      "file": "models3D/torre_fusora.glb",
+      "version": "1.0",
+      "size": "1.55MB",
+      "description": "Melting tower equipment model"
+    },
+    {
+      "name": "cableadora",
+      "file": "models3D/cableadora.glb",
+      "version": "1.0",
+      "size": "6.85MB",
+      "description": "Cable roller/winder machine model"
+    },
+    {
+      "name": "signal_light",
+      "file": "models3D/signal_light.glb",
+      "version": "1.0",
+      "size": "28KB",
+      "description": "Traffic signal/indicator light model"
+    }
+  ]
+}
