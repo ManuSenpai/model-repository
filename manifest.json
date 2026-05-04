@@ -44,6 +44,30 @@
       "version": "1.0",
       "size": "19KB",
       "description": "Wall type 1 for factory environment"
+    },
+    {
+      "label": "Pared 2",
+      "name": "wall_2",
+      "file": "scenary/wall_2.glb",
+      "version": "1.0",
+      "size": "19KB",
+      "description": "Wall type 2 for factory environment"
+    },
+    {
+      "label": "Pared 3",
+      "name": "wall_3",
+      "file": "scenary/wall_3.glb",
+      "version": "1.0",
+      "size": "19KB",
+      "description": "Wall type 3 for factory environment"
+    },
+    {
+      "label": "Pared 4",
+      "name": "wall_4",
+      "file": "scenary/wall_4.glb",
+      "version": "1.0",
+      "size": "19KB",
+      "description": "Wall type 4 for factory environment"
     }
   ]
 }
