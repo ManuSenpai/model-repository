@@ -1,6 +1,7 @@
 {
   "version": "1.0",
   "updatedAt": "2026-05-04",
+  "baseUrl": "https://raw.githubusercontent.com/ManuSenpai/model-repository/main",
   "models": [
     {
       "name": "fabrica_montada",
