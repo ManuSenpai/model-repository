@@ -35,5 +35,15 @@
       "size": "28KB",
       "description": "Traffic signal/indicator light model"
     }
+  ],
+  "scenary": [
+    {
+      "label": "Pared 1",
+      "name": "wall_1",
+      "file": "scenary/wall_1.glb",
+      "version": "1.0",
+      "size": "19KB",
+      "description": "Wall type 1 for factory environment"
+    }
   ]
 }
