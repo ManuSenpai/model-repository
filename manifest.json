@@ -4,6 +4,7 @@
   "baseUrl": "https://raw.githubusercontent.com/ManuSenpai/model-repository/main",
   "models": [
     {
+      "label": "Fábrica Montada",
       "name": "fabrica_montada",
       "file": "models3D/fabrica_montada.glb",
       "version": "1.0",
@@ -11,6 +12,7 @@
       "description": "Main factory assembly model (floor and walls)"
     },
     {
+      "label": "Torre Fusora",
       "name": "torre_fusora",
       "file": "models3D/torre_fusora.glb",
       "version": "1.0",
@@ -18,6 +20,7 @@
       "description": "Melting tower equipment model"
     },
     {
+      "label": "Cableadora",
       "name": "cableadora",
       "file": "models3D/cableadora.glb",
       "version": "1.0",
@@ -25,6 +28,7 @@
       "description": "Cable roller/winder machine model"
     },
     {
+      "label": "Semáforo",
       "name": "signal_light",
       "file": "models3D/signal_light.glb",
       "version": "1.0",
