@@ -33,7 +33,8 @@
       "file": "models3D/signal_light.glb",
       "version": "1.0",
       "size": "28KB",
-      "description": "Traffic signal/indicator light model"
+      "description": "Traffic signal/indicator light model",
+      "light_signals": ["red_light", "yellow_light", "green_light"]
     }
   ],
   "scenary": [
