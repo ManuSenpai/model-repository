@@ -77,6 +77,14 @@
       "version": "1.0",
       "size": "10KB",
       "description": "Beam type 1 for factory environment"
+    },
+    {
+      "label": "Viga 2",
+      "name": "beam_2",
+      "file": "scenary/beam_2.glb",
+      "version": "1.0",
+      "size": "10KB",
+      "description": "Beam type 2 for factory environment"
     }
   ]
 }
