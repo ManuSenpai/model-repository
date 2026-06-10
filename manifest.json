@@ -69,6 +69,14 @@
       "version": "1.0",
       "size": "19KB",
       "description": "Wall type 4 for factory environment"
+    },
+    {
+      "label": "Viga 1",
+      "name": "beam_1",
+      "file": "scenary/beam_1.glb",
+      "version": "1.0",
+      "size": "10KB",
+      "description": "Beam type 1 for factory environment"
     }
   ]
 }
