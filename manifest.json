@@ -12,6 +12,14 @@
       "description": "Main factory assembly model (floor and walls)"
     },
     {
+      "label": "Fábrica Template",
+      "name": "fabrica_template",
+      "file": "models3D/fabrica_template.glb",
+      "version": "1.0",
+      "size": "6.85MB",
+      "description": "Template for main factory assembly model. Includes lights, walls, and floor. Use this model to create your own factory assembly."
+    },
+    {
       "label": "Torre Fusora",
       "name": "torre_fusora",
       "file": "models3D/torre_fusora.glb",
