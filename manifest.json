@@ -14,7 +14,7 @@
     {
       "label": "Fábrica Template",
       "name": "fabrica_template",
-      "file": "models3D/fabrica_template.glb",
+      "file": "models3D/fabrica_template1.glb",
       "version": "1.0",
       "size": "6.85MB",
       "description": "Template for main factory assembly model. Includes lights, walls, and floor. Use this model to create your own factory assembly."
